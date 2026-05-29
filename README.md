@@ -1,2 +1,3 @@
-# zig-metal-bindings
-Simple metal bindings
+# Metal C Bindings
+
+Small C/Objective-C bindings for Metal.
